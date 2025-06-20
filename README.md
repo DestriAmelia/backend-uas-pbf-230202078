@@ -51,7 +51,7 @@ Ini adalah proyek **backend RESTful API** untuk Aplikasi Rumah Sakit yang dibang
 - GET /auth/check – Verifikasi token JWT
   ### Endpoint API
   ## Pasien
-  GET /pasiens – Daftar pasien
+GET /pasiens – Daftar pasien
 
 GET /pasiens/{id} – Detail pasien
 
